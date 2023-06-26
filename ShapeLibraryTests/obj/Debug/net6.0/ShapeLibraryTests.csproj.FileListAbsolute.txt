@@ -1,0 +1,17 @@
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\bin\Debug\net6.0\ShapeLibraryTests.deps.json
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\bin\Debug\net6.0\ShapeLibraryTests.runtimeconfig.json
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\bin\Debug\net6.0\ShapeLibraryTests.dll
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\bin\Debug\net6.0\ShapeLibraryTests.pdb
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\bin\Debug\net6.0\ShapeLibrary.dll
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\bin\Debug\net6.0\ShapeLibrary.pdb
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\ShapeLibraryTests.csproj.AssemblyReference.cache
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\ShapeLibraryTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\ShapeLibraryTests.AssemblyInfoInputs.cache
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\ShapeLibraryTests.AssemblyInfo.cs
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\ShapeLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\ShapeLibraryTests.csproj.CopyComplete
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\ShapeLibraryTests.dll
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\refint\ShapeLibraryTests.dll
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\ShapeLibraryTests.pdb
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\ShapeLibraryTests.genruntimeconfig.cache
+C:\Users\chert\OneDrive\Рабочий стол\Мои документы\Mindbox\ShapeLibraryTests\obj\Debug\net6.0\ref\ShapeLibraryTests.dll
